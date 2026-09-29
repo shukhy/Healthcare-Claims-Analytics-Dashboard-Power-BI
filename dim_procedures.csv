@@ -1,0 +1,9 @@
+proc_code,proc_name,department,standard_fee,prior_auth_required
+99213,Office Visit Level 3 (Routine),Outpatient Clinic,120,FALSE
+99215,Office Visit Level 5 (Complex),Outpatient Clinic,260,FALSE
+71045,Chest X-Ray Single View,Radiology,180,FALSE
+70553,Brain MRI with/without Contrast,Radiology,850,TRUE
+93000,Comprehensive Electrocardiogram (EKG),Cardiology,150,FALSE
+47562,Laparoscopic Cholecystectomy,Inpatient Surgery,4800,TRUE
+80053,Comprehensive Metabolic Panel,Laboratory,90,FALSE
+36415,Routine Venipuncture (Blood Draw),Laboratory,35,FALSE

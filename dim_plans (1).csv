@@ -1,0 +1,4 @@
+plan_id,plan_tier,monthly_premium,annual_deductible,copay_pct
+PLN_GOLD,Gold,550,750,0.1
+PLN_SILV,Silver,380,2500,0.2
+PLN_BRNZ,Bronze,220,5000,0.35

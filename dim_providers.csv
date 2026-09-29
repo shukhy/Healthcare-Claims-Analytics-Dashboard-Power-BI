@@ -1,0 +1,6 @@
+provider_id,hospital_name,hospital_type,city,bed_count,risk_audit_status
+PRV_H01,Metro Health Center,Private,Chicago,450,Under Review
+PRV_H02,St. Jude Community Hospital,Non-Profit,Chicago,280,Cleared
+PRV_H03,Apex Surgical & Trauma Institute,Private,Miami,320,Flagged SIU
+PRV_H04,Bayside County Hospital,Government,Miami,600,Cleared
+PRV_H05,Lakeshore Academic Medical,Academic,Chicago,700,Cleared

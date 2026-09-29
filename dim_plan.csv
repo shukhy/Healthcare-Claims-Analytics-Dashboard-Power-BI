@@ -1,0 +1,7 @@
+diag_code,diag_description,chronic_flag,risk_weight
+I10,Essential Hypertension,TRUE,1.2
+E11.9,Type 2 Diabetes Mellitus,TRUE,1.8
+J06.9,Acute Upper Respiratory Infection,,0.8
+K80.20,Calculus of Gallbladder w/o Cholecystitis,,2.4
+R07.9,Unspecified Chest Pain,,2.1
+M54.5,Low Back Pain,,1
